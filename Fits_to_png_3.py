@@ -1,5 +1,6 @@
 """
 Takes optical fits cutouts of sources and XXL X-ray mosaic to produce pdf image sets for visual inspection of sources.
+False colour images are generated following method in Lupton et al 2004.
 """
 
 import matplotlib.pyplot as plt
